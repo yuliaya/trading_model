@@ -185,7 +185,7 @@ python-utils==2.3.0
 pytrends==4.7.1
 pytz==2018.3
 PyWavelets==0.5.2
-PyYAML==3.12
+PyYAML==5.4
 pyzmq==16.0.2
 QtAwesome==0.4.4
 qtconsole==4.3.1
