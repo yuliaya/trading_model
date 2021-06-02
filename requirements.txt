@@ -229,7 +229,7 @@ tweepy==3.7.0
 typing==3.6.2
 unicodecsv==0.14.1
 Unidecode==1.0.22
-urllib3==1.22
+urllib3==1.26.5
 uszipcode==0.2.2
 venusian==1.2.0
 virtualenv==15.1.0
