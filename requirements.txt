@@ -128,7 +128,7 @@ notebook==5.0.0
 numba==0.40.0
 numdifftools==0.9.39
 numexpr==2.6.2
-numpy==1.17.0
+numpy==1.22.0
 numpydoc==0.7.0
 oauthlib==3.0.1
 odo==0.5.1
